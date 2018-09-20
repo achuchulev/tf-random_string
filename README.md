@@ -1,4 +1,4 @@
-# Sample repo with example of terraform random provider with count
+# Sample repo with example of terraform random provider
 
 ### Prerequisit
 
