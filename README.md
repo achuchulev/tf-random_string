@@ -1,6 +1,6 @@
 # Sample repo with example of terraform random provider
 
-### Prerequisit
+### Prerequisites
 
 * terraform
 * [Personal GitHub token](https://github.com/settings/tokens)
