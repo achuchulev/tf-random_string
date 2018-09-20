@@ -3,6 +3,7 @@
 ### Prerequisit
 
 * terraform
+* [Personal GitHub token](https://github.com/settings/tokens)
 
 ### How to
 
@@ -20,4 +21,16 @@ cd tf_random/
 
 ```
 terraform init
+```
+* build repo resources
+
+```
+terraform apply
+
+provide your GitHub token
+```
+* destroy resources
+
+```
+terrfaorm destroy
 ```
