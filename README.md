@@ -22,14 +22,15 @@ cd tf_random/
 ```
 terraform init
 ```
+* export you GitHub token using environment variable
+
+```
+export TF_VAR_github_token=<your_token>
+```
 * build repo resources
 
 ```
 terraform apply
-
-and 
-
-provide your GitHub token once asked for
 ```
 * destroy resources
 
