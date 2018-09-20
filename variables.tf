@@ -12,5 +12,5 @@ variable "github_organization" {
 # Repo count variable
 variable "repo_count" {
   description = "Used to create multiple repos within atanasc-1 organization"
-  default     = 2
+  default     = 1
 }
