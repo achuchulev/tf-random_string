@@ -1,4 +1,4 @@
-# Sample repo with example of terraform random provider usage
+# Sample repo with example of terraform random provider with count
 
 ### Prerequisit
 
@@ -27,7 +27,9 @@ terraform init
 ```
 terraform apply
 
-provide your GitHub token
+and 
+
+provide your GitHub token once asked for
 ```
 * destroy resources
 
