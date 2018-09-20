@@ -6,7 +6,6 @@ resource "random_string" "repo_extension" {
 }
 
 resource "github_repository" "random_reponame" {
-  count       = "${var.repo_count}"
-  name        = "${random_string.repo_extension.result}_${count.index}"
+  name        = "repo_${random_string.repo_extension.result}"
   description = "My multiple repos project"
 }
