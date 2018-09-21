@@ -1,3 +1,5 @@
 .terraform/
 priv/
 terraform.tfstate*
+.kitchen/
+.kitchen.local.yml
