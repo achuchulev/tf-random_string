@@ -1,4 +1,4 @@
-# Sample repo with example of terraform random and GitHub provider 
+# Sample repo with example of terraform random and GitHub providers
 
 ### The purpose of this repo is to use terraform random provider to create GitHub repos with random names
 
